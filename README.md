@@ -6,11 +6,11 @@ ASROCK B660M PG Riptide, i5-12400F, DEEPCOOL AK400 ZERO DARK PLUS, Patriot Viper
 
 Type | Spec | Status | Link
 ---------|:---------:|----------:|----------
-Motherboard		| ASUS B85M-G (mATX Form Factor) | Working | -
-BIOS Version	| B85M-G BIOS 3602 | Working | -
-CPU				| Intel® Core™ i3-4160 Processor | Working | -
+Motherboard		| ASRock-B660M-PG-Riptide | Working | -
+BIOS Version	| 11.02 | -
+CPU				| 2,5 GHz 12th Gen Intel(R) Core(TM) i5-12400F | Working | -
 Chipset			| Intel® B85 | Working | -
-Graphics		| Intel® HD Graphics 4400 | Working | [Guide](https://www.tonymacx86.com/threads/guide-intel-framebuffer-patching-using-whatevergreen.256490/)
+Graphics		| AMD Radeon RX 6600 XT 8 ГБ | Working | -
 Audio			| Realtek® ALC887-VD2 8-Channel High Definition Audio CODEC | Working | [Guide](https://github.com/acidanthera/AppleALC/wiki/Installation-and-usage)
 Ethernet		| Realtek® 8111G, 1 x Gigabit LAN Controller(s) | Working | -
 WiFi			| 802.11AC NIC Realtek USB Adaptor | Working |  [Product Info](https://www.aliexpress.com/item/33059242651.html)
