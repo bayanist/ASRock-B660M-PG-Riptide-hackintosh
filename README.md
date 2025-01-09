@@ -4,7 +4,7 @@
 
 | Component              | Model / Specification                                     | Hackintosh Compatibility |
 |------------------------|-----------------------------------------------------------|--------------------------|
-| **Motherboard**        | ASROCK B660M PG Riptide (BIOS Version: 11.05 |              ✅ OK                    |
+| **Motherboard**        | ASROCK B660M PG Riptide (BIOS Version: 11.05) |              ✅ OK                    |
 | **Processor**          | Intel Core i5-12400F                                      | ✅ OK                    |
 | **CPU Cooler**         | DEEPCOOL AK400 ZERO DARK PLUS                             | ✅ OK                    |
 | **RAM**                | Patriot Viper Steel 32Gb DDR4 4133MHz (PVS416G413C9K)     | ✅ OK                    |
