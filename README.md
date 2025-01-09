@@ -4,7 +4,7 @@
 
 | Component              | Model / Specification                                     | Hackintosh Compatibility |
 |------------------------|-----------------------------------------------------------|--------------------------|
-| **Motherboard**        | ASROCK B660M PG Riptide (BIOS Version: 11.05 | ✅ OK                    |
+| **Motherboard**        | ASROCK B660M PG Riptide (BIOS Version: 11.05 |              ✅ OK                    |
 | **Processor**          | Intel Core i5-12400F                                      | ✅ OK                    |
 | **CPU Cooler**         | DEEPCOOL AK400 ZERO DARK PLUS                             | ✅ OK                    |
 | **RAM**                | Patriot Viper Steel 32Gb DDR4 4133MHz (PVS416G413C9K)     | ✅ OK                    |
@@ -19,6 +19,21 @@
 | **Bootloader**         | OpenCore 1.0.3                                            | ✅ OK                    |
 
 ---
+
+## SSDT Table
+
+| Path                   | Comment                                                    | Enabled |
+|------------------------|------------------------------------------------------------|---------|
+| **SSDT-ALSO.aml**      | Ambient Light Sensor Device                                | ✅ true |
+| **SSDT-PLUG-ALT.aml**  | Redefines CPU Objects as Processor                         | ✅ true |
+| **SSDT-RTCAWAC.aml**   | Context-Aware AWAC Disable and RTC Enable/Fake/Range Fix   | ✅ true |
+| **SSDT-MCHC.aml**      | Memory Controller Hub                                      | ✅ true |
+| **SSDT-USBX.aml**      | Generic USBX device for USB power properties               | ✅ true |
+| **SSDT-SBUS.aml**      | System Management Bus (SMBus) K                            | ✅ true |
+| **SSDT-EC.aml**        | Embedded Controller (EC)                                   | ✅ true |
+| **SSDT-Bridge.aml**    | Create missing PCI bridges for passed device path          | ✅ true |
+| **SSDT-PMC.aml**       | Enables Native VRAM on True 300-Series Boards              | ✅ true |
+
 
 ### Notes:
 - All components are confirmed to work on Hackintosh with **macOS Sonoma 14.7.2 (23H311)**.
