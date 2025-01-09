@@ -21,7 +21,8 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 | **Storage 2**          | KingSpec SSD 256GB (OS: Windows 10)                       | ✅ OK                    |
 | **Storage 3**          | Seagate ST500DM002-1BD142 (HDD, 500GB)                    | ✅ OK                    |
 | **Power Supply**       | MONTECH BETA 650                                          | ✅ OK                    |
-| **Network Card**       | Intel Wi-Fi 6E AX210                                      | ✅ OK (with kexts)       |
+| **Network Card**       | Intel Wi-Fi 6E AX210                                      | ✅ OK                    |
+| **Network Ethernet**   | Realtek RTL8125B PCIe 2.5 Gbit                            | ✅ OK                    |
 | **Bootloader**         | OpenCore 1.0.3                                            | ✅ OK                    |
 
 ---
