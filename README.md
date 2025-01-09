@@ -1,4 +1,4 @@
-# ⚓ASRock-B660M-PG-Riptide-AlderLake
+# ⚓ ASRock-B660M-PG-Riptide-AlderLake
 
 ### Known Issue: Sleep Mode and BCLK Setting
 
