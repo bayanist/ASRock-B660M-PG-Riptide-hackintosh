@@ -14,13 +14,12 @@
 | **Storage 2**          | KingSpec SSD 256GB (OS: Windows 10)                       | ✅ OK                    |
 | **Storage 3**          | Seagate ST500DM002-1BD142 (HDD, 500GB)                    | ✅ OK                    |
 | **Power Supply**       | MONTECH BETA 650                                          | ✅ OK                    |
-| **Network Card**       | Intel Wi-Fi 6E AX210                                      | ✅ OK (with kexts)       |
+| **Network Card**       | Intel Wi-Fi 6E AX210                                      | ✅ OK       |
 
 ---
 
 ### Notes:
 - All components are confirmed to work on Hackintosh with **macOS Sonoma 14.7.2 (23H311)**.
-- Intel Wi-Fi 6E AX210 requires additional **kexts** for full functionality.
 - GPU and other components operate smoothly on macOS Sonoma.
 
 
