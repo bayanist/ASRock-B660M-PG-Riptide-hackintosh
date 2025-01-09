@@ -24,7 +24,6 @@
 
 | Path                   | Comment                                                    | Enabled |
 |------------------------|------------------------------------------------------------|---------|
-| **SSDT-ALSO.aml**      | Ambient Light Sensor Device                                | ✅ true |
 | **SSDT-PLUG-ALT.aml**  | Redefines CPU Objects as Processor                         | ✅ true |
 | **SSDT-RTCAWAC.aml**   | Context-Aware AWAC Disable and RTC Enable/Fake/Range Fix   | ✅ true |
 | **SSDT-MCHC.aml**      | Memory Controller Hub                                      | ✅ true |
