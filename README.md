@@ -2,7 +2,7 @@
 
 ## User's Hardware Specification
 
-| Component              | Model / Specification                                     | Hackintosh Compatibility |
+| Component              | Model / Specification                                     | Compatibility |
 |------------------------|-----------------------------------------------------------|--------------------------|
 | **Motherboard**        | ASROCK B660M PG Riptide (BIOS Version: 11.05) |              ✅ OK                    |
 | **Processor**          | Intel Core i5-12400F                                      | ✅ OK                    |
