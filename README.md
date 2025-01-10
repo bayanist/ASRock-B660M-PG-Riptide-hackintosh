@@ -1,5 +1,18 @@
 # ASRock-B660M-PG-Riptide-AlderLake
 
+## Geekbench
+
+|       | Platform | Architecture | Single-core Score | Multi-core Score |
+|--------------|----------|--------------|--------------------|------------------|
+| iMacPro1,1   | macOS    | x64          | 2510               | 11424           |
+
+|       | Model         | Compute API                     | Platform       | Compute Score |
+|----------|---------------|----------------------------------|----------------|---------------|
+| iMacPro1,1    | AMD Radeon RX 6600 XT Compute Engine | OpenCL   | macOS 64-bit   | 72091        |
+| iMacPro1,1    | AMD Radeon RX 6600 XT           | Metal          | macOS 64-bit   | 122555       |
+
+
+
 ### Known Issue: Sleep Mode and BCLK Setting
 
 If **BCLK (Base Clock)** is enabled in the BIOS settings of your motherboard, sleep mode will not function correctly.  
@@ -26,6 +39,8 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 | **Bootloader**         | OpenCore 1.0.3                                            | ✅ OK                    |
 
 ---
+
+
 
 ## SSDT Table
 
