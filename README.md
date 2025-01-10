@@ -6,7 +6,7 @@
 |--------------|----------|--------------|--------------------|------------------|
 | iMacPro1,1   | macOS    | x64          | 2510               | 11424           |
 
-|       | Model         | Compute API                     | Platform       | Compute Score |
+|       | Model         | API                     | Platform       |  Score |
 |----------|---------------|----------------------------------|----------------|---------------|
 | iMacPro1,1    | AMD Radeon RX 6600 XT Compute Engine | OpenCL   | macOS 64-bit   | 72091        |
 | iMacPro1,1    | AMD Radeon RX 6600 XT           | Metal          | macOS 64-bit   | 122555       |
