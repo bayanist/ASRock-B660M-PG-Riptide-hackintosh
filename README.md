@@ -8,7 +8,7 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 ## Geekbench
  **Geekbench measures your computer's processor and memory performance**: [Geekbench Browser](https://browser.geekbench.com/user/465996)
 
-| Model      | Platform | Architecture | Single-core Score | Multi-core Score |
+| Name      | Platform | Architecture | Single-core Score | Multi-core Score |
 |--------------|----------|--------------|--------------------|------------------|
 | iMacPro1,1   | macOS    | x64          | 2510               | 11424           |
 
