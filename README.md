@@ -2,14 +2,14 @@
 
 ## Geekbench
 
-|       | Platform | Architecture | Single-core Score | Multi-core Score |
+| Model      | Platform | Architecture | Single-core Score | Multi-core Score |
 |--------------|----------|--------------|--------------------|------------------|
 | iMacPro1,1   | macOS    | x64          | 2510               | 11424           |
 
-|       | Model         | API                     | Platform       |  Score |
-|----------|---------------|----------------------------------|----------------|---------------|
-| iMacPro1,1    | AMD Radeon RX 6600 XT Compute Engine | OpenCL   | macOS 64-bit   | 72091        |
-| iMacPro1,1    | AMD Radeon RX 6600 XT           | Metal          | macOS 64-bit   | 122555       |
+| Model         | API                     | Platform       |  Score |
+|---------------|----------------------------------|----------------|---------------|
+| AMD Radeon RX 6600 XT Compute Engine | OpenCL   | macOS 64-bit   | 72091        |
+| AMD Radeon RX 6600 XT           | Metal          | macOS 64-bit   | 122555       |
 
 
 
