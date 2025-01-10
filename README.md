@@ -5,7 +5,8 @@
 If **BCLK (Base Clock)** is enabled in the BIOS settings of your motherboard, sleep mode will not function correctly.  
 To enable proper sleep functionality, ensure that **BCLK is disabled** in the BIOS.
 
-</br></br>
+</br>
+
 ## Geekbench
  **Geekbench measures your computer's processor and memory performance**: [Geekbench Browser](https://browser.geekbench.com/user/465996)
 
@@ -18,8 +19,8 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 | AMD Radeon RX 6600 XT Compute Engine | OpenCL   | macOS 64-bit   | 72091        |
 | AMD Radeon RX 6600 XT           | Metal          | macOS 64-bit   | 122555       |
 
+</br>
 
-</br></br>
 ## User's Hardware Specification
 
 | Component              | Model / Specification                                     | Compatibility |
@@ -39,8 +40,8 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 | **Ethernet**   | Realtek RTL8125B PCIe 2.5 Gbit                                   | ✅ OK                    |
 | **Bootloader**         | OpenCore 1.0.3                                            | ✅ OK                    |
 
+</br>
 
-</br></br>
 ## SSDT Table
 
 | Path                   | Comment                                                    | Enabled |
