@@ -7,6 +7,8 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 
 </br>
 
+![BIOS Settings for ASRock B660M PG Riptide](Desktop.png)
+
 ## Geekbench
  **Geekbench measures your computer's processor and memory performance**: [Geekbench Browser](https://browser.geekbench.com/user/465996)
 
@@ -54,7 +56,6 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 | **SSDT-EC.aml**        | Embedded Controller (EC)                                   | ✅ true |
 | **SSDT-PMC.aml**       | Enables Native VRAM on True 300-Series Boards              | ✅ true |
 
-![BIOS Settings for ASRock B660M PG Riptide](full.png)
 
 ### Notes:
 - All components are confirmed to work on Hackintosh with **macOS Sonoma 14.7.2 (23H311)**.
