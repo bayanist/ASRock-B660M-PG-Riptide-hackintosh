@@ -52,7 +52,6 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 | **SSDT-USBX.aml**      | Generic USBX device for USB power properties               | ✅ true |
 | **SSDT-SBUS.aml**      | System Management Bus (SMBus) K                            | ✅ true |
 | **SSDT-EC.aml**        | Embedded Controller (EC)                                   | ✅ true |
-| **SSDT-Bridge.aml**    | Create missing PCI bridges for passed device path          | ✅ true |
 | **SSDT-PMC.aml**       | Enables Native VRAM on True 300-Series Boards              | ✅ true |
 
 
