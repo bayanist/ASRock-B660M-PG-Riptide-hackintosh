@@ -7,7 +7,7 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 
 </br>
 
-![BIOS Settings for ASRock B660M PG Riptide](Desktop.png)
+![Desktop PREW for ASRock B660M PG Riptide](Desktop.png)
 
 ## Geekbench
  **Geekbench measures your computer's processor and memory performance**: [Geekbench Browser](https://browser.geekbench.com/user/465996)
