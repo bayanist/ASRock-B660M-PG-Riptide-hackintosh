@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hack.png" width="20%" />
+  <img src="Hack.png" width="50%" />
 </p>
 
 # ASRock-B660M-PG-Riptide-AlderLake
