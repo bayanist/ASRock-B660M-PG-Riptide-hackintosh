@@ -1,4 +1,4 @@
-# ASRock-B660M-PG-Riptide-12400F
+# ASRock-B660M-PG-Riptide-AlderLake
 ### Known Issue: Sleep Mode and BCLK Setting
 
 If **BCLK (Base Clock)** is enabled in the BIOS settings of your motherboard, sleep mode will not function correctly.  
