@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Hack.png" width="20%" />
+</p>
+
 # ASRock-B660M-PG-Riptide-AlderLake
 ### Known Issue: Sleep Mode and BCLK Setting
 
