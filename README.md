@@ -18,7 +18,7 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 ```md
 | Model                         | API                     | Platform       | Score   |
 |-------------------------------|-------------------------|----------------|---------|
-| AMD Radeon RX 6600 XT Compute | OpenCL                | macOS 64-bit   | 72091   |
+| AMD Radeon RX 6600 XT Compute | OpenCL                  | macOS 64-bit   | 72091   |
 | AMD Radeon RX 6600 XT         | Metal                   | macOS 64-bit   | 122555  |
 ```
 
