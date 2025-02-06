@@ -3,7 +3,7 @@
 # ASRock-B660M-PG-Riptide-AlderLake
 
 
-  <img src="B660M.png" width="70%" />
+  <img src="B660M.png" width="1000%" />
 
 
 ### Known Issue: Sleep Mode and BCLK Setting
