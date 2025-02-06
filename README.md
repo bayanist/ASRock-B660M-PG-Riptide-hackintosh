@@ -57,4 +57,3 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 - All components are confirmed to work on Hackintosh with **macOS+**.
 - **Audio**: Realtek ALC897 works using `VoodooHDA` for sound output and input.
 - **Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg) 1.0.3 is used for system boot and configuration.
-- GPU and other components operate smoothly on macOS Sonoma.
