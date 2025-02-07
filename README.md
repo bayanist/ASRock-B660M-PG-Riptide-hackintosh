@@ -21,6 +21,7 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 | AMD Radeon RX 6600 XT Compute | OpenCL                  | macOS 64-bit   | 72091   |
 | AMD Radeon RX 6600 XT         | Metal                   | macOS 64-bit   | 122555  |
 ```
+<br>
 
 ## User's Hardware Specification
 
@@ -42,6 +43,7 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 | **Ethernet**           | Realtek RTL8125B PCIe 2.5 Gbit                            | ✅ OK         |
 | **Bootloader**         | OpenCore 1.0.3                                            | ✅ OK         |
 ```
+<br>
 
 ## SSDT Table
 
@@ -56,6 +58,7 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 | **SSDT-EC.aml**        | Embedded Controller (EC)                                   | ✅ true |
 | **SSDT-PMC.aml**       | Enables Native VRAM on True 300-Series Boards              | ✅ true |
 ```
+<br>
 
 ### Notes:
 - All components are confirmed to work on Hackintosh with **macOS+**.
