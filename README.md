@@ -4,7 +4,10 @@
 If **BCLK (Base Clock)** is enabled in the BIOS settings of your motherboard, sleep mode will not function correctly.  
 To enable proper sleep functionality, ensure that **BCLK is disabled** in the BIOS.
 
-![Desktop PREW PerformanceTest](PerformanceTest.png)
+<p align="center">
+  <img src="PerformanceTest.png" alt="Desktop PREW PerformanceTest">
+</p>
+
 
 ## Geekbench
 **Geekbench measures your computer's processor and memory performance**: [Geekbench Browser](https://browser.geekbench.com/user/465996)
