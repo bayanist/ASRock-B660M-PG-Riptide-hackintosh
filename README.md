@@ -7,7 +7,7 @@ To enable proper sleep functionality, ensure that **BCLK is disabled** in the BI
 <p align="center">
   <img src="PerformanceTest.png" alt="Desktop PREW PerformanceTest">
 </p>
-
+<a href="https://www.passmark.com/baselines/V11/display.php?id=508636929682"><img src="https://www.passmark.com/baselines/V10/images/508636929682.png" alt="PassMark Rating" border="0" /></a>
 
 ## Geekbench
 **Geekbench measures your computer's processor and memory performance**: [Geekbench Browser](https://browser.geekbench.com/user/465996)
